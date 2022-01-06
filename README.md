@@ -1,10 +1,10 @@
 # README.MD
 CV template for future use 
 
-##Content
+## Content
 This proyect have a archive .tex and .jpeg as sample
 
-##Installation
+## Installation
 '''
 $ apt-get update && apt-get upgrade
 $ apt-get install git texlive-full latexmk
@@ -12,11 +12,11 @@ $ git clone https://github.com/Magneto25/CV_Latex.git
 $ cd CV_Latex
 '''
 
-##Running
+## Running
 '''
 $ latexmk -pdf format.tex
 '''
 
-##Screenshot
+## Screenshot
 
 ![](/preview.jpg)
